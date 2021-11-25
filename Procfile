@@ -1,1 +1,1 @@
-worker: forta-agent run --prod
+web: forta-agent run --prod
