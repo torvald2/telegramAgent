@@ -1,0 +1,1 @@
+web: forta-agent run --prod
